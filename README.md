@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua Amarasinghe</h1>
 <h3 align="center">I am a 3rd Year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT) with a BSc (Hons) in Information Technology Specializing in Information Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaamarasinghe" /> </p>
-
-<p align="left"> <a href="https://twitter.com/joshamarasinghe" target="blank"><img src="https://img.shields.io/twitter/follow/joshamarasinghe?logo=twitter&style=for-the-badge" alt="joshamarasinghe" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joshamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshamarasinghe" height="30" width="40" /></a>
