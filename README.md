@@ -3,16 +3,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/joshamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshamarasinghe" width="26px" /></a>
-<a href="https://linkedin.com/in/joshuaamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshuaamarasinghe" width="26px" /></a>
-<a href="https://fb.com/joshuaamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshuaamarasinghe" width="26px" /></a>
-<a href="https://instagram.com/joshuaamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshuaamarasinghe" width="26px" /></a>
+<a href="https://twitter.com/joshamarasinghe" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="joshamarasinghe" width="26px" /></a>
+<a href="https://linkedin.com/in/joshuaamarasinghe" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="joshuaamarasinghe" width="26px" /></a>
+<a href="https://fb.com/joshuaamarasinghe" target="blank"><img align="center" src="https://img.icons8.com/fluency/50/000000/facebook-new.png" alt="joshuaamarasinghe" width="26px" /></a>
+<a href="https://instagram.com/joshuaamarasinghe" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="joshuaamarasinghe" width="26px" /></a>
 </p>
 </br>
-[<img align="left" alt="JoshuaAmarasinghe | Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="JoshuaAmarasinghe | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="JoshuaAmarasinghe | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-[<img align="left" alt="JoshuaAmarasinghe | Facebook" width="22px" src="https://img.icons8.com/fluency/50/000000/facebook-new.png" />][facebook]
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
