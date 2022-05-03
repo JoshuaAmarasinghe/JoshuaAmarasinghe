@@ -22,10 +22,10 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br />
+<br/></br>
 
 
-## 📊GitHub Stats :
+# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=JoshuaAmarasinghe&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoshuaAmarasinghe&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaAmarasinghe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
