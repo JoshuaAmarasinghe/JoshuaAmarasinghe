@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Amarasinghe</h1>
-<h3 align="center">I am a 3rd Year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT) with a BSc (Hons) in Information Technology Specializing in Information Technology</h3>
+<h3 align="center">I am a 3rd Year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT) following BSc (Hons) in Information Technology Specializing in Information Technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
