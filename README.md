@@ -12,8 +12,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <table><tr><td valign="top" width="33%">
 
-
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -24,9 +22,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
+  
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -37,14 +33,13 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
+</br>
 ### DevOps  
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-
-</td></tr></table>  
-
+</br>
+</td></tr></table>
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuaamarasinghe&show_icons=true&locale=en" alt="joshuaamarasinghe" /></p>
 
