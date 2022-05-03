@@ -10,24 +10,11 @@
 </p>
 </br>
 
-### Connect with me
-
-[<img align="left" alt="MininduSenadheera | YouTube" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/youtube.png" />][youtube]
-[<img align="left" alt="MininduSenadheera | Twitter" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/twitter.png" />][twitter]
-[<img align="left" alt="MininduSenadheera | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/linkedin.png" />][linkedin]
-[<img align="left" alt="MininduSenadheera | Instagram" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/instagram.png" />][instagram]
-[<img align="left" alt="MininduSenadheera | Facebook" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/facebook.png" />][facebook]
-
-<br/>
-<br/>
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/java.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
