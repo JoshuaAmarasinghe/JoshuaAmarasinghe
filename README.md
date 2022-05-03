@@ -10,6 +10,18 @@
 </p>
 </br>
 
+### Connect with me
+
+[<img align="left" alt="MininduSenadheera | YouTube" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/youtube.png" />][youtube]
+[<img align="left" alt="MininduSenadheera | Twitter" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/twitter.png" />][twitter]
+[<img align="left" alt="MininduSenadheera | LinkedIn" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/linkedin.png" />][linkedin]
+[<img align="left" alt="MininduSenadheera | Instagram" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/instagram.png" />][instagram]
+[<img align="left" alt="MininduSenadheera | Facebook" width="22px" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/JoshuaAmarasinghe/master/Images/facebook.png" />][facebook]
+
+<br/>
+<br/>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
