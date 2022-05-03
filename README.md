@@ -2,16 +2,13 @@
 <h3 align="center">I am a 3rd Year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT) following BSc (Hons) in Information Technology Specializing in Information Technology</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://twitter.com/joshamarasinghe" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="joshamarasinghe" width="26px" /></a>
 <a href="https://linkedin.com/in/joshuaamarasinghe" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="joshuaamarasinghe" width="26px" /></a>
 <a href="https://fb.com/joshuaamarasinghe" target="blank"><img align="center" src="https://img.icons8.com/fluency/50/000000/facebook-new.png" alt="joshuaamarasinghe" width="26px" /></a>
 <a href="https://instagram.com/joshuaamarasinghe" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="joshuaamarasinghe" width="26px" /></a>
-</p>
+
 </br>
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
