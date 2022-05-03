@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/joshamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshamarasinghe" width="26px" /></a>
+<a href="https://twitter.com/joshamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/JoshuaAmarasinghe/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshamarasinghe" width="26px" /></a>
 <a href="https://linkedin.com/in/joshuaamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshuaamarasinghe" width="26px" /></a>
 <a href="https://fb.com/joshuaamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshuaamarasinghe" width="26px" /></a>
 <a href="https://instagram.com/joshuaamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshuaamarasinghe" width="26px" /></a>
