@@ -34,3 +34,6 @@
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoshuaAmarasinghe&layout=compact&langs_count=8&theme=algolia"/>
  </a>
  </p>
+<div align="center">
+  <img src="https://elfreneticoinformatico.com/wp-content/uploads/2017/05/CODIGO-FUENTE.png" width="700" height="300"/>
+</div>
