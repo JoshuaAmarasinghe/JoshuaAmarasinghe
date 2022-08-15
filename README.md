@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Joshua Amarasinghe</h1>
 <h3 align="center">I am a 3rd Year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT) following BSc (Hons) in Information Technology Specializing in Information Technology</h3>
 
