@@ -26,6 +26,5 @@
 
 
 <h3 align="left"> 📊GitHub Stats :</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshuaAmarasinghe&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=JoshuaAmarasinghe&theme=default)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaAmarasinghe&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoshuaAmarasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoshuaAmarasinghe&layout=compact&langs_count=8&theme=algolia"/>
