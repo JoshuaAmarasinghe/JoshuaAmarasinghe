@@ -31,6 +31,6 @@
  <a href="https://github.com/JoshuaAmarasinghe">
 <h3 align="left"> 📊GitHub Stats :</h3>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoshuaAmarasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoshuaAmarasinghe&hide=jupyter%20noteboo,cssk&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoshuaAmarasinghe&hide=jupyter%20notebook,css&layout=compact&langs_count=8&theme=algolia"/>
  </a>
  </p>
